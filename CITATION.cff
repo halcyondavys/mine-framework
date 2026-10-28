@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "MINE (Python): A Framework for Dynamic Regressor Selection"
+authors:
+  - family-names: "Pimentel de Carvalho"
+    given-names: "Halcyon Davys"
+    orcid: "https://orcid.org/0000-0001-8933-5912"
+    affiliation: "University of Pernambuco (UPE)"
+repository-code: "https://github.com/halcyondavys/mine-framework"
+url: "https://github.com/halcyondavys/mine-framework"
+license: MIT
+year: 2025
+keywords:
+  - dynamic ensemble selection
+  - ensemble regression
+  - homogeneous ensemble
+  - bagging
+  - local competence estimation
+  - dynamic combination
+  - regressor selection
+abstract: >
+  Python implementation of the MINE framework for dynamic regressor selection,
+  originally proposed by Moura et al. (2021) in MATLAB. MINE trains a homogeneous
+  Bagging ensemble and applies competence-based dynamic selection using eight
+  local competence measures with GA-optimized weights. Three combination strategies
+  are evaluated: MINE-S (dynamic selection), MINE-W (dynamic weighting), and
+  MINE-WS (weighted selection). This port was developed as the main baseline for
+  comparison with the DREAM framework in a doctoral thesis on dynamic ensemble
+  selection for regression.
+references:
+  - type: article
+    authors:
+      - family-names: "Moura"
+        given-names: "Thiago José Marques"
+      - family-names: "de Oliveira"
+        given-names: "Adriano Lorena Inácio"
+      - family-names: "Mello"
+        given-names: "Rodrigo"
+      - family-names: "Fernandes"
+        given-names: "Bruno José Torres"
+    title: "MINE: A Framework for Dynamic Regressor Selection"
+    journal: "Expert Systems with Applications"
+    volume: 176
+    pages: "114917"
+    year: 2021
+    doi: "10.1016/j.eswa.2021.114917"
