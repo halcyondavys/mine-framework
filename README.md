@@ -162,22 +162,22 @@ Thiago José Marques Moura, Adriano Lorena Inácio de Oliveira, Rodrigo Mello, B
 
 **Python port — Doctoral Thesis**
 
-Halcyon Davys P. de Carvalho. *DREAM: A Multi-Criteria Global Selection and Local Competence Framework for Dynamic Combination in Heterogeneous Regression Ensembles*. Doctoral thesis, PPGEc-UPE / CIn-UFPE, Recife, Brazil, 2025.
+Halcyon Davys P. de Carvalho. *Framework DREAM: Seleção Dinâmica de Modelos de Regressão Baseada em Ensembles Heterogêneos* (DREAM Framework: Dynamic Selection of Regression Models Based on Heterogeneous Ensembles). Doctoral thesis (in Portuguese), Graduate Program in Computer Engineering (PPGEC), University of Pernambuco, Recife, Brazil, 2026.
 
 ```bibtex
-@phdthesis{carvalho2025dream,
+@phdthesis{carvalho2026dream,
   author  = {Halcyon Davys Pimentel de Carvalho},
-  title   = {DREAM: A Multi-Criteria Global Selection and Local Competence
-             Framework for Dynamic Combination in Heterogeneous Regression Ensembles},
-  school  = {Universidade de Pernambuco / Universidade Federal de Pernambuco},
-  year    = {2025},
+  title   = {Framework {DREAM}: Sele{\c{c}}{\~a}o Din{\^a}mica de Modelos de Regress{\~a}o Baseada em Ensembles Heterog{\^e}neos},
+  school  = {Universidade de Pernambuco},
+  year    = {2026},
   address = {Recife, Brazil},
-  url     = {https://github.com/halcyondavys/mine-framework}
+  note    = {In Portuguese. English title: DREAM Framework: Dynamic Selection of Regression Models Based on Heterogeneous Ensembles},
+  url     = {https://github.com/halcyondavys/dream-framework}
 }
 ```
 
 ---
 
-**Halcyon Davys Pimentel de Carvalho**
+**Halcyon Davys Pereira de Carvalho**
 ORCID: [0000-0001-8933-5912](https://orcid.org/0000-0001-8933-5912)
-PPGEc-UPE / CIn-UFPE — Recife, Brazil
+PPGEc-UPE — Recife, Brazil
